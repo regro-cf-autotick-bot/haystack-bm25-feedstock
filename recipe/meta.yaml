@@ -1,5 +1,5 @@
 {% set name = "haystack-bm25" %}
-{% set version = "1.0.0" %}
+{% set version = "1.0.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/haystack_bm25-{{ version }}.tar.gz
-  sha256: eeb6c60f9f8bca430236ff7a98f9f0cb6fb13bed5df5630dbe9e0f88c264a706
+  sha256: 57741c85203739d05e14de1a2c7657a675000a22dc7bd25f009eb9e0875ace2a
 
 build:
   noarch: python
