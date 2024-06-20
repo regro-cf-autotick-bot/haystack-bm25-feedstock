@@ -144,4 +144,5 @@ Feedstock Maintainers
 =====================
 
 * [@masci](https://github.com/masci/)
+* [@silvanocerza](https://github.com/silvanocerza/)
 
